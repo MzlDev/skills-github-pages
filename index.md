@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Bienvenido a mi pagina principal en GitHub!
 ---
